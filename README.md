@@ -53,5 +53,12 @@ This project:
 
 ## 🧱 Architecture
 
-### 🔹 System Workflow
+### 🔹 Model Comparison Architecture
+
+![image](https://github.com/user-attachments/assets/48562168-5fbc-4d2a-bd75-2cd01cdaf3f0)
+
+### 🔹 Youtube Architecture
+
+![image](https://github.com/user-attachments/assets/47609202-3abd-421e-9d2a-785e26657aeb)
+
 
